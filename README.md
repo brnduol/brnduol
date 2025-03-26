@@ -1,9 +1,14 @@
 # 💫 Sobre mim:
-Olá, mundo! Sou Bruno Eduardo, desenvolvedor back-end apaixonado por tecnologia e inovação. Atualmente, estudo Ciência da Computação na Universidade de Brasília e trabalho como estagiário de TI, aplicando meus conhecimentos em desenvolvimento e arquitetura de software.
+Olá, mundo! 
+Sou Bruno, goiano de nascimento e brasiliense de coração (diretamente do entorno – 61). Venho de uma família de baixa renda e sou a primeira geração a ingressar em uma universidade pública. Acredito no poder transformador da educação, e foi por meio dos estudos que encontrei um caminho para transformar minha realidade.
 
-Minha experiência abrange algumas linguagens e frameworks, incluindo Java, Python e JavaScript, e bibliotecas, como Spring, Django e Node.js. Tenho experiência em bancos de dados relacionais (PostgreSQL, MySQL, SQLite) e modelagem de dados (MER, DER, UML). Além disso, aplico padrões de design (Singleton, Factory Method, Composite) e arquiteturas como monolítica e microservices.
+Desde cedo, a tecnologia me fascinou. Achei que seria engenheiro, mas foi a Ciência da Computação que me escolheu — e hoje não me vejo em outro lugar. 
 
-Sou admirador de metodologias ágeis como Scrum, Kanban e XP, e utilizo Git e GitHub para versionamento de código. Sempre busco contribuir com soluções eficientes, escaláveis e bem estruturadas.
+Minha experiência inclui linguagens como Java, Python e JavaScript, além de frameworks como Spring, Django e Node.js. Tenho noções solidas em bancos de dados relacionais (MySQL, SQLite), modelagem de dados (MER, DER, UML), e aplicação de padrões de design (Singleton, Factory Method, Composite) em arquiteturas monolíticas e de microsserviços.
+
+Sou engajado em metodologias ágeis (Scrum, Kanban, XP) e utilizo ferramentas como Git e GitHub para versionamento de código. Busco contribuir com soluções eficientes, escaláveis e bem estruturadas.
+
+Ah, e nos meus momentos de lazer, provavelmente estarei debatendo o MCU como se fosse uma aula de história, ou apreciando o caos e a beleza de um fim de tarde à beira do lago com amigos.
 
 ## 🌐 Redes:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brnduol/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:beduardolima7@gmail.com?subject=&body=)
