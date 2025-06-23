@@ -1,6 +1,6 @@
 # 💫 Sobre mim:
 Olá, mundo! 
-Sou Bruno, goiano de nascimento e brasiliense de coração (diretamente do entorno – 61). Venho de uma família de baixa renda e sou a primeira geração a ingressar em uma universidade pública. Acredito no poder transformador da educação, e foi por meio dos estudos que encontrei um caminho para transformar minha realidade.
+Sou Bruno, goiano de nascimento e brasiliense de coração (diretamente do entorno). Venho de uma família humilde e sou a primeira geração a ingressar em uma universidade pública. Acredito no poder transformador da educação, e foi por meio dos estudos que encontrei um caminho para transformar minha realidade.
 
 Desde cedo, a tecnologia me fascinou. Achei que seria engenheiro, mas foi a Ciência da Computação que me escolheu. 
 
