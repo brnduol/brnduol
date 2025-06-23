@@ -2,7 +2,7 @@
 Olá, mundo! 
 Sou Bruno, goiano de nascimento e brasiliense de coração (diretamente do entorno – 61). Venho de uma família de baixa renda e sou a primeira geração a ingressar em uma universidade pública. Acredito no poder transformador da educação, e foi por meio dos estudos que encontrei um caminho para transformar minha realidade.
 
-Desde cedo, a tecnologia me fascinou. Achei que seria engenheiro, mas foi a Ciência da Computação que me escolheu — e hoje não me vejo em outro lugar. 
+Desde cedo, a tecnologia me fascinou. Achei que seria engenheiro, mas foi a Ciência da Computação que me escolheu. 
 
 Minha experiência inclui linguagens como Java, Python e JavaScript, além de frameworks como Spring, Django e Node.js. Tenho noções solidas em bancos de dados relacionais (MySQL, SQLite), modelagem de dados (MER, DER, UML), e aplicação de padrões de design (Singleton, Factory Method, Composite) em arquiteturas monolíticas e de microsserviços.
 
