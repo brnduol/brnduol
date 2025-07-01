@@ -4,7 +4,7 @@ Sou Bruno, goiano de nascimento e brasiliense de coração (diretamente do entor
 
 Desde cedo, a tecnologia me fascinou. Achei que seria engenheiro, mas foi a Ciência da Computação que me escolheu. 
 
-Minha experiência inclui linguagens como Java, Python e JavaScript, além de frameworks como Spring, Django e Node.js. Tenho noções solidas em bancos de dados relacionais (MySQL, SQLite), modelagem de dados (MER, DER, UML), e aplicação de padrões de design (Singleton, Factory Method, Composite) em arquiteturas monolíticas e de microsserviços.
+Minha experiência inclui linguagens como Java, Python e JavaScript, além de frameworks como Spring, Django e Node.js. Tenho noções solidas em bancos de dados relacionais (PostgreSQL, SQLite), modelagem de dados (MER, DER, UML), e aplicação de padrões de design (Singleton, Factory Method, Composite) em arquiteturas monolíticas e de microsserviços.
 
 Sou engajado em metodologias ágeis (Scrum, Kanban, XP) e utilizo ferramentas como Git e GitHub para versionamento de código. Busco contribuir com soluções eficientes, escaláveis e bem estruturadas.
 
@@ -18,7 +18,7 @@ Ah, e nos meus momentos de lazer, provavelmente estarei debatendo o MCU como se 
 [![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
 [![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)](https://maven.apache.org/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrum&logoColor=white)](https://www.scrum.org/)
 [![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://wordpress.org/)
 
