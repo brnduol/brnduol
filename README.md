@@ -11,7 +11,7 @@ Sou engajado em metodologias ágeis (Scrum, Kanban, XP) e utilizo ferramentas co
 Ah, e nos meus momentos de lazer, provavelmente estarei debatendo o MCU como se fosse uma aula de história, ou apreciando o caos e a beleza de um fim de tarde à beira do lago com amigos.
 
 ## 🌐 Redes:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brnduol/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:beduardolima7@gmail.com?subject=&body=)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brnduol/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:beduardolima7+github@gmail.com?subject=&body=)
 
 # 💻 Principais tecnologias:
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
